@@ -1,0 +1,8 @@
+{
+  "name": "MyIonictutorial",
+  "app_id": "2b172a62",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
